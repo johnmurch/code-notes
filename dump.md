@@ -1,8 +1,5 @@
-## DUMP - WIP
+# WIP
 
-### TODO: Organize
-
-[https://12factor.net/](12 Factor Apps)
 ## DUMP
 
 ### TODO: Organize
